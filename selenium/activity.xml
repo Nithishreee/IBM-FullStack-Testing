@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ExampleSuite" >
+<test name="SuiteTests" >
+    <groups>
+        <run>
+            <include name="TestGrp"/>
+        </run>
+    </groups>
+    <classes>
+        <class name="activity0"/>
+    </classes>
+</test>
+</suite>
